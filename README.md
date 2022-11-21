@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GyanendraChaubey-Golub. This is my official account.
+- 👋 Hi, I’m Gyan. This is my official account for Golup Corporation.
 - 👀 I’m interested in Machine Learning, Python, SSIS, and Datawarehousng.
 - 🌱 I’m currently learning NLP and Deep Learning.
-- 💞️ I’m looking to collaborate on research works and solving innovative problems in ML
+- 💞️ I’m looking to collaborate on research works and solving innovative problems in ML.
 - 📫 Just Google my name Gyanendra Chaubey.
 
 <!---
